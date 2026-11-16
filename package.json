@@ -1,0 +1,14 @@
+{
+  "name": "sayehha-persian-mafia-web",
+  "version": "2.0.0",
+  "private": true,
+  "description": "سایت فارسی نقش مخفی پدرخوانده و ارتش سری با اتاق آنلاین دوستان و ربات‌ها",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
